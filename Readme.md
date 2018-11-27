@@ -3,7 +3,7 @@ or names supplied to the script, and prints out the version of MPI where the
 symbol first appears.  For example
 
 ```bash
-./findscript MPI_COMM_WORLD
+./finds_symbol.sh MPI_COMM_WORLD
 ```
 
 outputs
